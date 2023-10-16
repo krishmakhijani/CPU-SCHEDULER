@@ -116,7 +116,7 @@ const Output = ({
           </AlgoValue>
         </Header>
         {
-          <FadeIn children={undefined}>
+          <FadeIn>
             <GanttChart {...{ ganttChartInfo }} />
             <Table {...{ solvedProcessesInfo }} />
           </FadeIn>
