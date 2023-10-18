@@ -41,7 +41,7 @@ module.exports = {
   // assetPrefix: isProd ? 'https://boonsuen.com/process-scheduling-solver' : '',
   env: {
     ASSET_PREFIX: isProd
-      ? 'https://boonsuen.com/process-scheduling-solver'
+      ? 'https://cpu-2uaeb007k-krishmakhijani.vercel.app'
       : '',
     BASE: isProd ? '/process-scheduling-solver' : '',
   },
